@@ -8,4 +8,4 @@ Projeto que está sendo criado para acompanhamento do módulo de Spring Boot do 
 Estamos criando uma biblioteca.
 
 ## **Tecnologias utilizadas** ##
-`Java` `Spring Boot` `MySQL`  
+`Java` `Spring Boot` `MySQL` `Maven` 
